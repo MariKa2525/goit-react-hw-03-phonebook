@@ -1,0 +1,17 @@
+.container {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(33, 33, 33);
+}
+
+.title {
+    text-align: center;
+}
+
+
+
